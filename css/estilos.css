@@ -1,6 +1,6 @@
 .principal {
     width: 800px;
-    height: 1450px;
+    height: 1600px;
     /*background-color: blue;*/
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -31,13 +31,14 @@
     width: 25%;
     height: 95%;
     margin: 20px 0px 0px 0px;
-    /*background-color: rgb(131, 125, 118);*/
+    /*background-color: rgb(236, 203, 16);*/
 
 }
 .centro{
     width: 60%;
-    height: 95%;
+    height: 98%;
     /*background-color: antiquewhite;*/
+    /*background-color: saddlebrown;*/
 }
 .foto{
     display: flex;
@@ -62,6 +63,7 @@
 .centrado2{
     display: flex;
     align-items: center;
+    background-color: white;
 }
 .subtutilo{
     font-size: 13px;
